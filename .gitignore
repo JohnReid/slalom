@@ -12,3 +12,5 @@ src/*.dll
 # Ignore emacs backup files
 *~
 ^output*
+slalom.egg-info/
+venv/
